@@ -98,22 +98,20 @@ body {
   max-width: 100%;
 }
 
-/* 
 #dmb-cont-projects {
   display: flex;
   flex: 1;
   flex-direction: row;
   margin: auto;
 }
-*/
-/*
+
 .proj-child {
   display: flex;
   flex-direction: column;
   flex: 1;
   margin: none;
 }
-*/
+
 .proj-pic {
   margin: auto;
   border-radius: 4px;
