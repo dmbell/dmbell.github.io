@@ -89,8 +89,9 @@ body {
 }
 
 .dmb-content div p {
-  margin: auto;
+  margin: 2%;
 }
+
 
 #dmb-welcome {
   margin: auto;
@@ -109,7 +110,7 @@ body {
   display: flex;
   flex-direction: column;
   flex: 1;
-  margin: none;
+  margin: auto;
 }
 
 .proj-pic {
